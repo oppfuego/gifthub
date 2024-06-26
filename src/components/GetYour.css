@@ -1,0 +1,183 @@
+.get-your-desired,
+.instantly-from-giftcardever {
+  margin: 0;
+}
+.get-your-desired-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.authorized-sellers-which,
+.spend-no-more,
+.worldwide-who-trust {
+  margin: 0;
+}
+.spend-no-more-container {
+  align-self: stretch;
+  height: 88px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+}
+.get-your-desired-gift-cards-in-parent {
+  width: 795px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.heading-211 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.authorized-american-online,
+.looking-for-a {
+  margin: 0;
+}
+.looking-for-a-container {
+  align-self: stretch;
+  height: 154px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+}
+.heading-2-we-are-the-best-sh-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 363px;
+  max-width: 100%;
+}
+.also-get-spotify {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.besides-itunes-we {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.also-get,
+.we-are {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.also-get {
+  flex: 1;
+  flex-direction: column;
+  gap: 22px;
+  min-width: 357px;
+}
+.we-are {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 108px 0 0;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 32px;
+}
+.frame-parent8,
+.get-your {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.frame-parent8 {
+  width: 1280px;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.get-your {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .we-are {
+    padding-right: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .get-your-desired-container {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .also-get-spotify,
+  .heading-211 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .also-get,
+  .heading-2-we-are-the-best-sh-parent {
+    min-width: 100%;
+  }
+  .we-are {
+    gap: 32px;
+    padding-right: 27px;
+    box-sizing: border-box;
+  }
+  .frame-parent8 {
+    gap: 16px;
+  }
+  .get-your {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .get-your-desired-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .also-get-spotify,
+  .heading-211 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .we-are {
+    gap: 16px;
+  }
+}

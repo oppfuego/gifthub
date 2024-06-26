@@ -1,0 +1,53 @@
+.link-icon1 {
+  height: 193.1px;
+  width: 193.1px;
+  position: relative;
+  object-fit: cover;
+}
+.link-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+}
+.applebees-gift-card {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div37 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.container10,
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 34px;
+  font-size: 14px;
+}
+.container10 {
+  width: 198px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 224px;
+  flex-direction: column;
+  padding: 0 0 5.9px;
+  box-sizing: border-box;
+  gap: 18px;
+  text-align: center;
+  font-size: 16px;
+  color: #0a0a60;
+  font-family: Roboto;
+}

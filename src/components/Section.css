@@ -1,0 +1,127 @@
+.heading-28 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.best-selling-title,
+.container4 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.best-selling-title {
+  width: 1140px;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.container4 {
+  align-self: stretch;
+  overflow: hidden;
+  display: grid;
+  justify-content: flex-start;
+  padding: 0 15px 47.4px;
+  gap: 30px;
+  flex-shrink: 0;
+  grid-template-columns: repeat(4, minmax(191px, 1fr));
+}
+
+.product-desc-cont{
+  text-decoration: none;
+  color: #0a0a60
+}
+
+.button6,
+.button7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 2px solid #0a0a60;
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+}
+.button7 {
+  left: 20px;
+  background-color: #0a0a60;
+}
+.button-parent {
+  height: 10px;
+  width: 30px;
+  position: relative;
+  flex-shrink: 0;
+}
+.best-selling-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.best-selling-cards,
+.section1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.best-selling-cards {
+  width: 1140px;
+  align-items: flex-start;
+  gap: 34px;
+  text-align: left;
+  font-size: 18px;
+}
+.section1 {
+  align-self: stretch;
+  background-color: #fbfed8;
+  align-items: center;
+  padding: 80px 20px 82px;
+  box-sizing: border-box;
+  gap: 63px;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .section1 {
+    gap: 31px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .heading-28 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .container4 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(191px, 331px));
+  }
+}
+@media screen and (max-width: 750px) {
+  .best-selling-cards {
+    gap: 17px;
+  }
+  .section1 {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-28 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .container4 {
+    padding-bottom: 31px;
+    box-sizing: border-box;
+    grid-template-columns: minmax(191px, 1fr);
+  }
+}

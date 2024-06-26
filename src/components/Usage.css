@@ -1,0 +1,151 @@
+.use-of-gift-cards,
+.use-of-gift-container {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.use-of-gift-cards {
+}
+.use-of-gift-container {
+  line-height: 120%;
+  font-weight: 400;
+}
+.gift-cards-can1,
+.redemption1,
+.use-of-gift-container {
+  align-self: stretch;
+  position: relative;
+}
+.redemption1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-can1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemption-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.gift-cards-are,
+.non-transferable {
+  align-self: stretch;
+  position: relative;
+}
+.non-transferable {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-are {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemption-details1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.no-cash-redemption {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-are1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemption-details2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.expiration,
+.gift-cards-do {
+  align-self: stretch;
+  position: relative;
+}
+.expiration {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-do {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemption-details3 {
+  align-self: stretch;
+  gap: 16px;
+}
+.redemption,
+.redemption-details3,
+.usage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.redemption {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.usage {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1050px) {
+  .use-of-gift-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .usage {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .expiration,
+  .no-cash-redemption,
+  .non-transferable,
+  .redemption1,
+  .use-of-gift-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

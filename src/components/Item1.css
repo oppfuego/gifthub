@@ -1,0 +1,41 @@
+.link-google-play-cardjpg1 {
+  width: 255px;
+  height: 255px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-27 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div24,
+.img-rated-500-out-of-54 {
+  width: 98px;
+  height: 14px;
+  position: relative;
+}
+.div24 {
+  width: 102px;
+  height: 26.6px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5.2px;
+  gap: 11.1px;
+  text-align: left;
+  font-size: 18px;
+  color: #0a0a60;
+  font-family: Manrope;
+}

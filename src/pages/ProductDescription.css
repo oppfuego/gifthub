@@ -1,0 +1,1063 @@
+.link-icon {
+  height: 300px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px;
+  box-sizing: border-box;
+  min-width: 203px;
+}
+.content,
+.product-details-parent,
+.product-info {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product-details-parent {
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+  gap: 21px;
+  min-width: 257px;
+}
+.content,
+.product-info {
+  box-sizing: border-box;
+}
+.product-info {
+  width: 332px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 15.1px 0 0;
+  min-width: 332px;
+}
+.content {
+  align-self: stretch;
+  background-color: #edf0f5;
+  flex-direction: row;
+  justify-content: center;
+  padding: 80px 515px 80px 520px;
+  gap: 156px;
+}
+.heading-2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.best-selling-title-container {
+  width: 1140px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.link-google-play-cardjpg {
+  width: 255px;
+  height: 255px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-21 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.img-rated-500-out-of-5 {
+  width: 98px;
+  height: 14px;
+  position: relative;
+}
+.div,
+.item {
+  display: flex;
+}
+.div {
+  width: 102px;
+  height: 26.6px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5.2px;
+  gap: 11.1px;
+}
+.link-netflix-gift-card-300x3 {
+  width: 255px;
+  height: 255px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-22 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div1,
+.img-rated-500-out-of-51 {
+  width: 98px;
+  height: 14px;
+  position: relative;
+}
+.div1 {
+  width: 102.1px;
+  height: 26.6px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5.2px;
+  gap: 11.1px;
+}
+.link-amazon-gift-card-300x30 {
+  width: 255px;
+  height: 255px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-heading {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div2,
+.img-rated-500-out-of-52 {
+  width: 98px;
+  height: 14px;
+  position: relative;
+}
+.div2 {
+  width: 102.6px;
+  height: 26.6px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5.2px;
+  gap: 11.1px;
+}
+.link-visa-vanilla-gift-card- {
+  width: 255px;
+  height: 255px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-heading1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div3,
+.img-rated-500-out-of-53 {
+  width: 98px;
+  height: 14px;
+  position: relative;
+}
+.div3 {
+  width: 101.2px;
+  height: 26.6px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container1,
+.item3 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item3 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 5.2px;
+  gap: 11.1px;
+}
+.container1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: grid;
+  flex-direction: row;
+  padding: 0 15px 47.4px;
+  gap: 30px;
+  flex-shrink: 0;
+  grid-template-columns: repeat(4, minmax(191px, 1fr));
+}
+.button,
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 2px solid #0a0a60;
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+}
+.button1 {
+  left: 20px;
+  background-color: #0a0a60;
+}
+.view-more-buttons {
+  height: 10px;
+  width: 30px;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-more-button-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.best-selling-products {
+  width: 1140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 34px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+}
+.section,
+.symbol3 {
+  display: flex;
+  align-items: center;
+}
+.section {
+  align-self: stretch;
+  background-color: #fbfed8;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 20px 82px;
+  box-sizing: border-box;
+  gap: 63px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.symbol3 {
+  margin: 0;
+  width: 51.3px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 51.3px;
+}
+.feature-icons-containers {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.heading-33 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-instant-delivary-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.no-delay1,
+.our-gift-card1,
+.worldwide-you-can1 {
+  margin: 0;
+}
+.our-gift-card-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.feature-details-containers {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.feature-icons-containers-parent {
+  width: 348.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.symbol-wrapper1,
+.symbol4 {
+  display: flex;
+  justify-content: center;
+}
+.symbol4 {
+  margin: 0;
+  width: 63.9px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.heading-34 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-secure-payment-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.payment-information-is1,
+.servers1,
+.we-process-all1 {
+  margin: 0;
+}
+.we-process-all-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.frame-parent3,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.frame-parent3 {
+  flex: 1;
+  gap: 24px;
+  min-width: 230px;
+  max-width: 100%;
+}
+.symbol-wrapper2,
+.symbol5 {
+  display: flex;
+  justify-content: center;
+}
+.symbol5 {
+  margin: 0;
+  width: 51.3px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.heading-35 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-no-expiration-date-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 63px;
+}
+.do-so1,
+.most-convenient-time1,
+.the-gift-card1 {
+  margin: 0;
+}
+.the-gift-card-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.frame-parent5,
+.frame-parent6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.frame-parent5 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 24px;
+  min-width: 233px;
+  max-width: 100%;
+}
+.features,
+.features-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.features-container {
+  width: 1112.5px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.features {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 50px;
+  color: #0a0a60;
+  font-family: "Font Awesome 5 Free";
+}
+.heading-23 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.link-amazon-gift-card-300x301 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div4,
+.link-heading2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div4 {
+  font-size: 16px;
+  font-family: Roboto;
+}
+.item4 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-visa-vanilla-gift-card-1 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div5,
+.visa-vanilla-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div5 {
+  font-size: 16px;
+  font-family: Roboto;
+}
+.item5 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-shein-gift-card-300x300 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div6,
+.link-heading3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div6 {
+  font-size: 16px;
+  font-family: Roboto;
+}
+.item6 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-hulu-gift-cards-300x300 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div7,
+.link-heading4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div7 {
+  font-size: 16px;
+  font-family: Roboto;
+}
+.item7 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-mint-gift-card-300x300 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div8,
+.link-heading5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 115px;
+}
+.div8 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.item8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  text-align: left;
+}
+.container2 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 15px;
+  gap: 20px;
+  font-size: 18px;
+}
+.button2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 2px solid #0a0a60;
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+
+}
+.button3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 2px solid #0a0a60;
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+
+}
+
+.gift-card-view-more-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.gift-card-categories,
+.gift-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.gift-cards {
+  width: 1140px;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.gift-card-categories {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.heading-24 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.link-roblox-gift-card-300x30 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div9,
+.link-heading6 {
+  position: relative;
+  line-height: 22px;
+}
+.div9 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.item9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-pubg-mobile-gift-card-3 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.pubg-mobile-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div10 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  text-align: left;
+  display: inline-block;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.item10 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  min-width: 129px;
+  text-align: center;
+}
+.link-minecraft-minecoin-coin {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div11,
+.link-heading7 {
+  position: relative;
+  line-height: 22px;
+}
+.div11 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 104px;
+  white-space: nowrap;
+}
+.item11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-psn-plus-card-300x300j {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div12,
+.link-heading8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 117px;
+}
+.div12 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  min-width: 104px;
+  white-space: nowrap;
+}
+.item12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.link-karma-koin-gift-card-30 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.karma-koin-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.div13 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  text-align: left;
+  display: inline-block;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.item13 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  min-width: 129px;
+  text-align: center;
+}
+.list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  text-align: left;
+  font-size: 18px;
+}
+.gaming-cards {
+  width: 1030px;
+  align-items: center;
+  gap: 32px;
+  max-width: 100%;
+}
+.gaming-cards,
+.gaming-cards-category,
+.product-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.gaming-cards-category {
+  align-self: stretch;
+  background-color: #edf0f5;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.product-description {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1525px) {
+  .product-info {
+    flex: 1;
+  }
+  .content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .content {
+    gap: 78px;
+    padding-left: 260px;
+    padding-right: 257px;
+    box-sizing: border-box;
+  }
+  .container1 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(191px, 331px));
+  }
+  .section {
+    gap: 31px;
+  }
+  .container2 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 850px) {
+  .product-details-parent {
+    flex-wrap: wrap;
+  }
+  .content {
+    gap: 39px;
+    padding-left: 130px;
+    padding-right: 128px;
+    box-sizing: border-box;
+  }
+  .heading-2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .best-selling-products {
+    gap: 17px;
+  }
+  .section {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  }
+  .symbol3,
+  .symbol4,
+  .symbol5 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .heading-23 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gift-cards {
+    gap: 16px;
+  }
+  .gift-card-categories {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .heading-24 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gaming-cards {
+    gap: 16px;
+  }
+  .gaming-cards-category {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .content {
+    gap: 19px;
+    padding: 52px 20px;
+    box-sizing: border-box;
+  }
+  .heading-2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .container1 {
+    padding-bottom: 31px;
+    box-sizing: border-box;
+    grid-template-columns: minmax(191px, 1fr);
+  }
+  .symbol3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-33 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .symbol4 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-34 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .symbol5 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-35 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-3-no-expiration-date-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-23,
+  .heading-24 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

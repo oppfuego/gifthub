@@ -1,0 +1,119 @@
+.heading-29 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.link-mint-gift-card-300x3002 {
+  width: 198px;
+  height: 198px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div26,
+.link-heading17 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 115px;
+}
+.div26 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.item26 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  text-align: left;
+}
+.container5 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 15px;
+  gap: 20px;
+  font-size: 18px;
+}
+.button8 {
+  background-color: #0a0a60;
+}
+.button8,
+.button9 {
+  height: 10px;
+  width: 10px;
+  position: relative;
+  border-radius: 10px;
+  border: 2px solid #0a0a60;
+  box-sizing: border-box;
+}
+.gift-cards-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.gift-cards2,
+.heading-2-gift-cards-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.heading-2-gift-cards-parent {
+  width: 1140px;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.gift-cards2 {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .container5 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .heading-29 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .heading-2-gift-cards-parent {
+    gap: 16px;
+  }
+  .gift-cards2 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-29 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

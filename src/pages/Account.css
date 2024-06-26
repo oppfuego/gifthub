@@ -1,0 +1,316 @@
+.navbar-content-child {
+  height: 42.1px;
+  width: 34px;
+  position: relative;
+  object-fit: cover;
+}
+.gifthub-icon {
+  height: 21.3px;
+  width: 102px;
+  position: relative;
+}
+.navbar-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.item-link {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 62px;
+  white-space: nowrap;
+  text-decoration: none;
+  color: #0a0a60;
+}
+.links-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 8px;
+}
+.item-link1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 86px;
+  white-space: nowrap;
+}
+.links-list1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 8px;
+}
+.item-link2 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.links-list2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 8px;
+}
+.item-link3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 60px;
+}
+.links-list3,
+.navbar-container,
+.navbar-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.links-list3 {
+  justify-content: center;
+  padding: 10px 8px;
+}
+.navbar-container,
+.navbar-links {
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navbar-links {
+  margin: 0;
+  padding: 0 185px 0 0;
+  gap: 24px;
+  text-align: left;
+  font-size: 16px;
+  color: #0a0a60;
+  font-family: Roboto;
+}
+.navbar-container {
+  padding: 0 93px 0 0;
+  gap: 80px;
+}
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 30px;
+  overflow: hidden;
+}
+.greeting {
+  position: relative;
+  line-height: 100%;
+  display: inline-block;
+  min-width: 7px;
+}
+.items,
+.paragraphbackground {
+  position: absolute;
+  display: flex;
+}
+.items {
+  height: 20px;
+  width: 30.2px;
+  margin: 0 !important;
+  right: -10.2px;
+  bottom: -19.5px;
+  line-height: 100%;
+  color: #0a0a60;
+  align-items: center;
+  justify-content: center;
+  min-width: 30.2px;
+}
+.paragraphbackground {
+  right: 0;
+  bottom: 0;
+  border-radius: 40px;
+  background-color: #0a0a60;
+  width: 20px;
+  flex-direction: row;
+  padding: 0.8px 6px 7.2px;
+  box-sizing: border-box;
+  z-index: 1;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.icon-parent {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+}
+.responsive-navbar,
+.responsive-navbar-inner {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.responsive-navbar-inner {
+  width: 36px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.responsive-navbar {
+  align-self: stretch;
+  background-color: #eee;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24px 20px;
+  gap: 300px;
+  flex-shrink: 0;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  font-family: Roboto;
+}
+.welcome-darnell {
+  margin: 0;
+  width: 678.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.welcome-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.your-personal-dashboard {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+}
+.dashboard-container,
+.dashboard-content {
+  background-color: #fbfed8;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.dashboard-content {
+  width: 849.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 1;
+}
+.dashboard-container {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 81.5px 20px;
+  box-sizing: border-box;
+}
+.account-1920,
+.dashboard-container-wrapper,
+.page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dashboard-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.account-1920,
+.page {
+  flex-direction: column;
+}
+.page {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.account-1920 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .responsive-navbar {
+    gap: 363px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .navbar-links {
+    display: none;
+  }
+  .navbar-container {
+    gap: 40px;
+    padding-right: 46px;
+    box-sizing: border-box;
+  }
+  .account-1920 {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .navbar-links {
+    padding-right: 92px;
+    box-sizing: border-box;
+  }
+  .responsive-navbar {
+    gap: 181px;
+  }
+  .welcome-darnell {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .account-1920 {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar-container,
+  .navbar-links {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .navbar-container {
+    gap: 20px;
+    padding-right: 23px;
+  }
+  .responsive-navbar {
+    gap: 91px;
+  }
+  .welcome-darnell {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}
+
+

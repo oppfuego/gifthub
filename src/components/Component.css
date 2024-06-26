@@ -1,0 +1,287 @@
+.footer-logo-child {
+  height: 42.1px;
+  width: 34px;
+  position: relative;
+  object-fit: cover;
+}
+.gifthub-icon2 {
+  height: 21.3px;
+  width: 102px;
+  position: relative;
+}
+.footer-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.about2 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  display: inline-block;
+  min-width: 68px;
+}
+.about3,
+.contact1,
+.faq1,
+.press1,
+.reviews1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 38px;
+}
+.contact1,
+.faq1,
+.press1,
+.reviews1 {
+  min-width: 29px;
+}
+.contact1,
+.press1,
+.reviews1 {
+  min-width: 50px;
+}
+.press1,
+.reviews1 {
+  min-width: 36px;
+}
+.reviews1 {
+  min-width: 52px;
+}
+.footer-about {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.businesses1,
+.product1 {
+  position: relative;
+  display: inline-block;
+}
+.product1 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  min-width: 89px;
+}
+.businesses1 {
+  line-height: 22px;
+  min-width: 73px;
+}
+.gift-card-incentives1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.product-parent {
+  width: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.legal1 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  min-width: 60px;
+}
+.legal1,
+.privacy1,
+.site-terms1 {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+    color: #fff;
+}
+.site-terms1 {
+  line-height: 135%;
+  min-width: 67px;
+  white-space: nowrap;
+}
+.privacy1 {
+  line-height: 22px;
+  min-width: 46px;
+}
+.legal-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+
+.horizontal-line {
+  width: 100%;
+  height: 1px;
+  background-color: #ffffff;
+  margin-top: 30px;
+}
+.use-gifthub1 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+}
+.how-it-works1 {
+  line-height: 135%;
+  min-width: 82px;
+  white-space: nowrap;
+}
+.how-it-works1,
+.redeem1,
+.why-us1 {
+  position: relative;
+  display: inline-block;
+}
+.why-us1 {
+  line-height: 135%;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.redeem1 {
+  line-height: 22px;
+  min-width: 51px;
+}
+.use-gifthub-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.other-stuff1 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  display: inline-block;
+  min-width: 122px;
+}
+.blog1 {
+  line-height: 22px;
+  min-width: 32px;
+}
+.blog1,
+.gift-card-worth1,
+.sitemap1 {
+  position: relative;
+  display: inline-block;
+}
+.gift-card-worth1 {
+  line-height: 135%;
+  min-width: 98px;
+  white-space: nowrap;
+}
+.sitemap1 {
+  line-height: 22px;
+  min-width: 52px;
+}
+.footer-logo-parent,
+.other-stuff-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.footer-logo-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.categories1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 69px;
+}
+.restaurants-bars-spas-shopping1 {
+  height: 22px;
+  width: 671px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-height: 22px;
+  word-break: break-word;
+  max-width: 100%;
+}
+.footer-categories1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.component-71,
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.footer-container {
+  width: 1536px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.component-71 {
+  align-self: stretch;
+  background-color: #0a0a60;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1050px) {
+  .footer-logo-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer-categories1 {
+    flex-wrap: wrap;
+  }
+  .footer-container {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about2,
+  .legal1,
+  .other-stuff1,
+  .product1,
+  .use-gifthub1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .component-71 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

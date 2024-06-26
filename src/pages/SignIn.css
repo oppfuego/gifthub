@@ -1,0 +1,195 @@
+.sign-in-to,
+.sign-in1 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.sign-in-to {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.sign-in-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1px;
+  gap: 12px;
+}
+.frame-child,
+.frame-item {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 40px;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #0a0a60;
+}
+.button,
+.frame-form {
+  align-self: stretch;
+  flex: 1;
+}
+.frame-form {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-in {
+  position: relative;
+  font-size: 16px;
+  line-height: 44px;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 91px;
+}
+.frame-child1,
+.frame-icon,
+.frame-inner {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.frame-container {
+  align-self: stretch;
+  width: 322px;
+  flex-direction: column;
+  align-items: center;
+  gap: 28.7px;
+  max-width: 100%;
+}
+.sign-in {
+  align-self: stretch;
+  width: 584px;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding: 85px 20px 84px;
+  box-sizing: border-box;
+}
+.frame-group,
+.frame-wrapper,
+.sign-in,
+.sign-in-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.sign-in-wrapper {
+  width: 978px;
+  height: 609px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.frame-group,
+.frame-wrapper {
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  gap: 165px;
+}
+.frame-wrapper {
+  flex: 1;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.background-icon {
+  width: 960px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  margin-left: -960px;
+}
+.frame-parent,
+.sign-in-1920 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  flex-direction: row;
+  max-width: 100%;
+}
+.sign-in-1920 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-wrapper {
+    padding-top: 79px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .sign-in1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-group {
+    gap: 82px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .sign-in {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    gap: 41px;
+  }
+  .frame-wrapper {
+    padding-top: 51px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-in1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

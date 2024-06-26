@@ -1,0 +1,373 @@
+.image-37-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.use-a-vibrant,
+.your-ultimate-destination {
+  width: 879px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.your-ultimate-destination {
+  margin: 0;
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.use-a-vibrant {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+}
+.component-5 {
+  height: 50px;
+  width: 159px;
+  z-index: 1;
+}
+.hero-button,
+.hero-image {
+  display: flex;
+  max-width: 100%;
+}
+.hero-button {
+  width: 879px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.hero-image {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 181px 20px 102px 63px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 16px;
+  text-align: center;
+  font-size: 80px;
+  color: #0a0a60;
+  font-family: Manrope;
+}
+.symbol,
+.symbol-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.symbol {
+  margin: 0;
+  width: 51.3px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 51.3px;
+}
+.symbol-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.heading-3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-instant-delivary-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.no-delay,
+.our-gift-card,
+.worldwide-you-can {
+  margin: 0;
+}
+.our-gift-card-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.frame-group,
+.instant-delivery-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.instant-delivery-content {
+  align-self: stretch;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.frame-group {
+  width: 348.4px;
+  gap: 24px;
+  max-width: 100%;
+}
+.symbol-container,
+.symbol1 {
+  display: flex;
+  justify-content: center;
+}
+.symbol1 {
+  margin: 0;
+  width: 63.9px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.heading-31 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-secure-payment-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.payment-information-is,
+.servers,
+.we-process-all {
+  margin: 0;
+}
+.we-process-all-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-div {
+  align-self: stretch;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.frame-container {
+  flex: 1;
+  gap: 24px;
+  min-width: 230px;
+  max-width: 100%;
+}
+.symbol-frame,
+.symbol2 {
+  display: flex;
+  justify-content: center;
+}
+.symbol2 {
+  margin: 0;
+  width: 51.3px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.98px;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.heading-32 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-3-no-expiration-date-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 63px;
+}
+.do-so,
+.most-convenient-time,
+.the-gift-card {
+  margin: 0;
+}
+.the-gift-card-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 24px;
+  font-family: Manrope;
+}
+.frame-parent,
+.frame-parent1 {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px;
+  min-width: 233px;
+}
+.frame-parent {
+  width: 1112.5px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 26px;
+}
+.frame-parent,
+.homepage,
+.instant-delivery {
+  display: flex;
+  align-items: flex-start;
+}
+.instant-delivery {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: #0a0a60;
+  font-family: "Font Awesome 5 Free";
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .your-ultimate-destination {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .hero-image {
+    padding-left: 31px;
+    box-sizing: border-box;
+  }
+  .symbol,
+  .symbol1,
+  .symbol2 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .hero-image {
+    padding-top: 118px;
+    padding-bottom: 66px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-ultimate-destination {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .symbol {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .symbol1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-31 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .symbol2 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .heading-32 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-3-no-expiration-date-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}
